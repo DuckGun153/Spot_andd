@@ -2,6 +2,7 @@
 리밴스드 매니저로 anddea 패치를 적용한 스포티파이 .apk
 
 apkmirror에서 다운받은 .apk파일을 패치해서 공유하는중
+
 https://www.apkmirror.com/apk/spotify-ab/spotify-music-podcasts/
 
 적용되는 패치:
